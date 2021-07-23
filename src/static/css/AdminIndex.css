@@ -1,0 +1,22 @@
+#components-layout-demo-side .logo {
+    height: 32px;
+    margin: 0px;
+    background: rgba(255, 255, 255, 0.3);
+    background-color: #f0f2f5;
+  }
+  
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+
+  .under-line{
+    border-bottom: 1px solid #dfe4e4;
+    height: 2px;
+    width: auto;
+  }
+
+  .admin-top-user{
+    display:flex;
+    justify-content: flex-end;
+    width: 100%;
+  }

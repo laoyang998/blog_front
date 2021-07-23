@@ -1,0 +1,33 @@
+.homelist-articleitem{
+    border-bottom: 1px solid #eeebeb;
+}
+
+.homelist-articleitem a{
+    cursor: pointer;
+    color: #333;
+}
+
+.homelist-articleitem a:hover{
+    text-decoration: underline;
+}
+
+.homelist-articleitem .title{
+    margin: 0 0 4px;
+    display: table;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.5;
+    
+}
+
+.div-bottom{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin:5px 0;
+}
+
+.article-info{
+    font-size: 12px;
+    color:#8f8b8b
+}

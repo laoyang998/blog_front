@@ -1,0 +1,25 @@
+.login-div{
+    margin:0px auto;
+    padding-top: 150px;
+    width: 400px;
+    background-image: url('../img/login.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body-div{
+
+    /* background-color: #f0f0f0; */
+    position:absolute;
+    height: 100%;
+    width: 100%;
+    background-image: url('../img/login.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background-color: #f9f9f9;
+}

@@ -1,0 +1,35 @@
+.out-div{
+    position:absolute;
+    height: 100%;
+    width: 100%;
+    background-color:#f9f9f9;
+}
+.show-div{
+    padding: 32px;
+    margin:0 auto;
+    width:80%;
+    background-color: #fff;
+}
+.title-div{
+    width: 100%;
+    background-color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+    word-break: break-word;
+}
+.userinfo-div{
+    display: flex;
+    background-color: #fff;
+    width: 100%;
+    justify-content:left;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 13px;
+    color:rgba(157, 158, 160, 0.959);
+}
+
+.article-head{
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 1px solid #ebe8e8;
+}

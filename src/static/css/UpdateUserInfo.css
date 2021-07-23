@@ -1,0 +1,17 @@
+.userinfo-div2{
+    display:flex;
+    justify-content: center;
+    
+}
+
+.image-div{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.userinfo-button-div{
+    display:flex;
+    width: 100%;
+}
